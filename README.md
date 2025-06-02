@@ -16,12 +16,12 @@ This project is inspired by [skylarbeaty/ProceduralGenerationOfNuclearThrone](ht
 - Dynamic spawning, direction change, and destruction of walkers
 - Auto-generated walls with cleanup of isolated wall tiles
 - Easy-to-tweak parameters
-- TileMap support for visualization
+- TileMapLayer support for visualization
 
 ## Getting Started
 
 1. Open the project in **Godot 4.4.1**
-2. Make sure the scene contains a `Node2D` with a `TileMap` node named `"TileMapLayer"`
+2. Make sure the scene contains TileMapLayer
 3. Run the scene to see a generated level
 
 ## Configuration Parameters
